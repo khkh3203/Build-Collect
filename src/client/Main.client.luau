@@ -3,3 +3,4 @@
 -- 동작 확인용 샘플 스크립트입니다.
 
 print("Hello Rojo from client")
+print("Edited Local")
