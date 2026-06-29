@@ -27,3 +27,4 @@ rojo serve
 - **스크립트(코드)는 git으로 관리**합니다. (`src/` 아래 `.luau`)
 - **에셋(모델·이미지·사운드 등)은 Studio에서 관리**합니다. (git에 빌드 산출물 `.rbxl`/`.rbxlx` 등은 커밋하지 않음 — `.gitignore` 참고)
 - **모든 변경은 `main` 직접 작업 금지.** feature 브랜치를 만들어 작업하고, 커밋 후 push → PR로 머지합니다.
+  - **예외: `JunJun`** (git user) 은 `main` 직접 작업이 허용됩니다.
